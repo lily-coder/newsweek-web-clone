@@ -1,0 +1,23 @@
+/* Navbar */
+
+.logo {
+  width: 30%;
+}
+
+.button-logo {
+  border-radius: 20px;
+}
+
+.logo-icon {
+  width: 7%;
+}
+
+.nav-links {
+  list-style-type: none;
+  font-size: 11px;
+}
+
+.nav-link {
+  border-right: 1px solid lightgray;
+  text-align: center;
+}
