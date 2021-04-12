@@ -21,3 +21,17 @@
   border-right: 1px solid lightgray;
   text-align: center;
 }
+
+.footer-top {
+  border-bottom: 1px solid grey;
+} 
+.footer-logo {
+  width: 40%;
+}
+
+@media screen and (min-width: 1024px) {
+  .footer-top {
+    display: flex;
+    align-items: flex-end;
+  }
+}
