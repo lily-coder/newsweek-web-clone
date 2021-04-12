@@ -1,4 +1,4 @@
-# tnw-website
+# newsweek-web-clone
 
 > One paragraph statement about the project.
 
@@ -8,9 +8,8 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Html and Css
+- Bootstrap
 
 ## Live Demo
 
@@ -26,9 +25,10 @@ Additional description about the project and its features.
 
 👤 **Emmanuel Obonyo**
 
-- GitHub: [@githubhandle](https://github.com/)
-- Twitter: [@twitterhandle](https://mobile.twitter.com/)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/)
+- GitHub: [@githubhandle](https://github.com/emmyobonyo)
+- Twitter: [@twitterhandle](https://twitter.com/emmyobonyo)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/emmanuel-obonyo-3728a2200/)
+)
 
 ## 🤝 Contributing
 
