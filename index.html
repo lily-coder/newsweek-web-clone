@@ -12,55 +12,82 @@
     <link rel="stylesheet" href="style.css">
 </head>
   <body>
-    <nav class="d-flex justify-content-between navbar navbar-expand-lg navbar-light bg-danger py-3">
-      <time class="d-none d-lg-block text-light">Wed, Jan 20 2021</time>
-      <img class="logo" src="./img/svgexport-1.svg" alt="logo">
+    <header>
+      <nav class="d-flex justify-content-between navbar navbar-expand-lg navbar-light bg-danger py-3">
+        <time class="d-none d-lg-block text-light">Wed, Jan 20 2021</time>
+        <img class="logo" src="./img/svgexport-1.svg" alt="logo">
+        <div>
+          <img class="logo-icon d-md-none" src="./img/user-icon.svg" alt="user-icon">
+          <a class="d-none d-md-inline-block text-white" href="">LOGIN</a>
+          <button type="button" class="btn btn-warning py-0 button-logo"><b>SUBSCRIBE &rsaquo;</b></button>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        </div>
+      </nav>
+      <nav class="d-none d-lg-block">
+        <ul class="navbar nav-links d-flex justify-content-start">
+          <li class="nav-item active">
+            <a class="nav-link text-dark" href="#"<b>Home</b><span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-dark" href="#"><b>World</b></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-dark" href="#"><b>Business</b></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-dark" href="#"><b>Tech and Science</b></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-dark" href="#"><b>Culture</b></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-dark" href="#"><b>Newsgeek</b></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-dark" href="#"><b>Sports</b></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-dark" href="#"><b>Health</b></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-dark" href="#"><b>The Debate</b></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-dark" href="#"><b>Experts</b></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-dark" href="#"><b>Search</b></a>
+          </li>
+        </ul>
+      </nav>
+  </header>
+  <footer>
+    <div>
       <div>
-        <img class="logo-icon d-md-none" src="./img/user-icon.svg" alt="user-icon">
-        <a class="d-none d-md-inline-block text-white" href="">LOGIN</a>
-        <button type="button" class="btn btn-warning py-0 button-logo"><b>SUBSCRIBE &rsaquo;</b></button>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
+        <img src="img/svgexport-5.svg" class="" alt="logo">
+        <span class="">&#169; 2021 NEWSWEEK DIGITAL, LLC</span>
+      </div>
+      <div class="">
+        <a href="#" class=""><i class="fa fa-facebook-square fa-2x"></i></a>
+        <a href="#" class=""><i class="fa fa-twitter fa-2x"></i></a>
+        <a href="#" class=""><i class="fa fa-instagram fa-2x"></i></a>
+        <a href="#" class=""><i class="fa fa-linkedin fa-2x"></i></a>
+        <a href="#" class=""><i class="fa fa-tumblr fa-2x"></i></a>
+      </div>
+    </div>
+    <nav>
+      <div>
+        <strong>Editions:</strong>
+        <ul>
+          <li class=""><a href="">US Edition</a></li>
+          <li class=""><a href="">日本</a></li>
+          
+        </ul>
       </div>
     </nav>
-    <nav class="d-none d-lg-block">
-      <ul class="navbar nav-links d-flex justify-content-start">
-        <li class="nav-item active">
-          <a class="nav-link text-dark" href="#"<b>Home</b><span class="sr-only">(current)</span></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link text-dark" href="#"><b>World</b></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link text-dark" href="#"><b>Business</b></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link text-dark" href="#"><b>Tech and Science</b></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link text-dark" href="#"><b>Culture</b></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link text-dark" href="#"><b>Newsgeek</b></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link text-dark" href="#"><b>Sports</b></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link text-dark" href="#"><b>Health</b></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link text-dark" href="#"><b>The Debate</b></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link text-dark" href="#"><b>Experts</b></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link text-dark" href="#"><b>Search</b></a>
-        </li>
-      </ul>
-    </nav>
+  </footer>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
