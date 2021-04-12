@@ -13,8 +13,11 @@
 }
 
 .header-top {
-  border-bottom: 2px solid #f8f9fa;
   font-size: 14px;
+  border-bottom: 2px solid #f8f9fa;
+}
+.header-lower {
+  border-bottom: 2px solid #f8f9fa;
 }
 
 .header-top::before {
@@ -34,10 +37,6 @@
   flex-direction: row;
   align-items: center;
   flex-shrink: initial;
-}
-
-.header-lower {
-  border-bottom: 2px solid #f8f9fa;
 }
 
 .nav-links {
