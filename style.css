@@ -16,6 +16,7 @@
   font-size: 14px;
   border-bottom: 2px solid #f8f9fa;
 }
+
 .header-lower {
   border-bottom: 2px solid #f8f9fa;
 }
@@ -54,7 +55,8 @@
 
 .footer-top {
   border-bottom: 2px solid #f8f9fa;
-} 
+}
+
 .footer-logo {
   width: 40%;
 }
@@ -63,8 +65,5 @@
   .footer-top {
     display: flex;
     align-items: flex-end;
-  }
-  .header-bottom {
-    
   }
 }
