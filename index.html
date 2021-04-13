@@ -12,20 +12,20 @@
   </head>
   <body>
     <header>
-      <nav class="d-flex justify-content-between navbar navbar-expand-lg navbar-light bg-danger py-3">
-        <p class="d-none d-lg-block text-light">Wed, Jan 20 2021</p>
+      <nav class="d-flex justify-content-between navbar navbar-expand-lg navbar-light py-3 nav-top">
+        <time class="d-none d-lg-block text-light align-self-end">Wed, Jan 20 2021</time>
         <img class="logo" src="./img/svgexport-1.svg" alt="logo">
-        <div>
+        <div class="align-self-end">
           <img class="logo-icon d-md-none" src="./img/user-icon.svg" alt="user-icon">
           <a class="d-none d-md-inline-block text-white" href="">LOGIN</a>
           <button type="button" class="btn btn-warning py-0 button-logo"><b>SUBSCRIBE &rsaquo;</b></button>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
+          <i class="fa fa-bars"></i>
           </button>
         </div>
       </nav>
       <nav class="d-none header-bottom d-lg-block">
-        <div class="header-top">
+        <div class="header-top d-flex justify-content-start">
           <ul class="navbar nav-links">
             <li class="nav-item">
               <a class="nav-link text-dark" href="#"><b>US</b></a>
@@ -58,7 +58,10 @@
               <a class="nav-link text-dark" href="#"><b>Experts</b></a>
             </li>
             <li class="nav-item">
-              <li>Search <i class="fa fa-search"></i>
+              <form action="">
+                <input type="text" placeholder="Search">
+                <i class="fa fa-search"></i>
+              </form>
             </li>
           </ul>
         </div>
