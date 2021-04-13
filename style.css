@@ -34,6 +34,7 @@
   background-color: #F72210;
   border-left: 12px solid white;
   border-top: 13px solid #F72210;
+  z-index: -1;
 }
 
 .header-bottom {
