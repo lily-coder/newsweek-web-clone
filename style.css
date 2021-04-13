@@ -1,6 +1,6 @@
 /* Navbar */
 .nav-top {
-  background-color: #F72210;
+  background-color: #f72210;
   width: 100%;
 }
 
@@ -31,9 +31,9 @@
   right: 0;
   content: "";
   display: block;
-  background-color: #F72210;
+  background-color: #f72210;
   border-left: 12px solid white;
-  border-top: 13px solid #F72210;
+  border-top: 13px solid #f72210;
   z-index: -1;
 }
 
@@ -42,7 +42,6 @@
   justify-content: flex-start;
   flex-direction: row;
   align-items: center;
-  /* flex-shrink: initial; */
 }
 
 .nav-links {
@@ -67,7 +66,7 @@
 }
 
 input {
-  border: 0px solid;
+  border: 0px transparent;
   width: 70px;
 }
 
@@ -76,7 +75,7 @@ input {
 }
 
 .fa-bars {
-  color: rgba(255,255,255,.55);
+  color: rgba(255, 255, 255, 0.55);
 }
 
 @media screen and (min-width: 1024px) {
