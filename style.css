@@ -77,6 +77,77 @@ input {
   color: rgba(255, 255, 255, 0.55);
 }
 
+/* The Debate Section */
+
+.debate-profiles {
+  width: 20%;
+  height: 20%;
+}
+
+.the-proponent {
+  padding: 12px 0;
+  border-top: 4px solid lightgray;
+  border-bottom: 1px solid lightgray;
+}
+
+.the-opponent {
+  padding: 12px 0;
+  border-bottom: 4px solid lightgray;
+  border-top: 1px solid lightgray;
+}
+
+.the-opinion-con {
+  border-bottom: 1px solid black;
+}
+
+.sponsored-insight-con {
+  border: 1px solid gray;
+  padding: 6px 15px;
+}
+
+aside {
+  float: left;
+}
+
+.more-stories {
+  border-bottom: 1px solid lightgray;
+}
+
+.more-content {
+  border-bottom: 1px solid lightgray;
+}
+
+.more-content-latest {
+  border-top: 1px solid lightgray;
+}
+
+.lower-text {
+  font-size: 18px;
+}
+
+.red-logo {
+  width: 15%;
+  height: 10%;
+}
+
+.form-class {
+  background-color: #F4F5F6;
+  border: 1px solid lightgray;
+}
+
+.submit {
+  width: 100%;
+  border: none;
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  padding: 3px 0;
+}
+
+input {
+  width: 100%;
+}
+
 @media screen and (min-width: 1024px) {
   .footer-top {
     display: flex;
