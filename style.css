@@ -176,6 +176,10 @@ input {
     width: 50%;
     margin: auto;
   }
+
+  .more-content {
+    display: flex;
+  }
 }
 
 @media screen and (min-width: 1024px) {
@@ -190,5 +194,10 @@ input {
 
   .my-turn-h4 {
     margin-top: -1450px;
+  }
+
+  .more-stories-md {
+    margin-top: -2350px;
+    margin-left: 25%;
   }
 }
