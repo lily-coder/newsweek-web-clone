@@ -183,4 +183,12 @@ input {
     display: flex;
     align-items: flex-end;
   }
+
+  .sponsored-insight {
+    width: 100%;
+  }
+
+  .my-turn-h4 {
+    margin-top: -1450px;
+  }
 }
