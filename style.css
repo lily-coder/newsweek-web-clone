@@ -148,6 +148,36 @@ input {
   width: 100%;
 }
 
+@media screen and (min-width: 768px) {
+  .my-turn-h4 {
+    margin-top: -1300px;
+  }
+
+  .cards.mt-3.col-md-4 {
+    margin-top: 0 !important;
+  }
+
+  .mt-3 {
+    margin-top: 0 !important;
+  }
+
+  .more-stories-md {
+    margin-left: 33%;
+    margin-top: -2200px;
+  }
+
+  .the-opinion-con {
+    border-bottom: 1px solid black;
+    padding-bottom: 25px;
+    padding-top: 25px;
+  }
+
+  .sponsored-insight-2 {
+    width: 50%;
+    margin: auto;
+  }
+}
+
 @media screen and (min-width: 1024px) {
   .footer-top {
     display: flex;
