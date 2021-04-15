@@ -144,6 +144,10 @@ aside {
   padding: 3px 0;
 }
 
+.sponsored-insight-h4 {
+  margin-bottom: -25px;
+}
+
 @media screen and (min-width: 768px) {
   .my-turn-h4 {
     margin-top: -1300px;
