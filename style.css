@@ -161,8 +161,22 @@ aside {
   background-color: rgba(255,255,255,0.8);
 }
 
+.bottom-left-travel {
+  position: absolute;
+  bottom: 0px;
+  font-weight: bold;
+  font-size: 14px;
+  padding: 3px;
+  background-color: #C2D4D7
+}
+
 .a-hover:hover {
   text-decoration: none;
+}
+
+.a-deco:hover {
+  text-decoration: underline;
+  text-decoration-color: red;
 }
 
 @media screen and (min-width: 768px) {
