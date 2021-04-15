@@ -154,20 +154,20 @@ aside {
 
 .bottom-left {
   position: absolute;
-  bottom: 0px;
+  bottom: 0;
   font-weight: bold;
   font-size: 18px;
   padding: 5px;
-  background-color: rgba(255,255,255,0.8);
+  background-color: rgba(255, 255, 255, 0.8);
 }
 
 .bottom-left-travel {
   position: absolute;
-  bottom: 0px;
+  bottom: 0;
   font-weight: bold;
   font-size: 14px;
   padding: 3px;
-  background-color: #C2D4D7
+  background-color: #c2d4d7;
 }
 
 .a-hover:hover {
@@ -188,7 +188,6 @@ aside {
 }
 
 @media screen and (min-width: 768px) {
-
   .my-turn-h4 {
     margin-top: -1450px;
   }
