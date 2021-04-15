@@ -2,7 +2,15 @@
 
 > One paragraph statement about the project.
 
-![screenshot](./app_screenshot.png)
+## Milestone 2 Screen Shots
+![screenshot](./img/large.png)
+- Large screens
+
+![screenshot](./img/medium.png)
+- Medium Screens
+
+![screenshot](./img/small.png)
+- Small Screens
 
 Additional description about the project and its features.
 
