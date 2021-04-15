@@ -1,6 +1,6 @@
-# newsweek-web-clone
+# News Week Web Clone
 
-> One paragraph statement about the project.
+> This is a clone of an archived version of the [News Week Website](https://web.archive.org/web/20210120125445/https://www.newsweek.com/) as of Wed, Jan 20, 2020
 
 ## Milestone 2 Screen Shots
 ![screenshot](./img/large.png)
@@ -12,16 +12,14 @@
 ![screenshot](./img/small.png)
 - Small Screens
 
-Additional description about the project and its features.
+- The goal of the project was to learn to use Bootstrap to design Responsive Web Pages.
+- We used Bootstrap grid to position the different elements in columns.
+- PS: The links on the page don't work. They are mainly dummy links.
 
 ## Built With
 
-- Html and Css
+- HTML and CSS
 - Bootstrap
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
 
 ## Authors
 
@@ -42,17 +40,16 @@ Additional description about the project and its features.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/lily-coder/newsweek-web-clone/issues).
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Give a ⭐️ if you like this project! We'd really appreciate it.
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thanks to [Microverse](https://github.com/lily-coder/newsweek-web-clone/issues) for providing the [linters](https://github.com/microverseinc/linters-config/tree/master/html-css)
+
 
 ## 📝 License
 
