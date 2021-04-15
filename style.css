@@ -179,6 +179,14 @@ aside {
   text-decoration-color: red;
 }
 
+.mc-no-border {
+  border: none;
+}
+
+.ln-border {
+  border-bottom: 1px solid lightgray;
+}
+
 @media screen and (min-width: 768px) {
 
   .my-turn-h4 {
