@@ -25,16 +25,16 @@
 
 👤 **Lilian Moraa**
 
-- GitHub: [@githubhandle](https://github.com/lily-coder)
-- Twitter: [@twitterhandle](https://mobile.twitter.com/LilianM53742529)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lilian-moraa-99950b1b8)
+- GitHub: [@lily-coder](https://github.com/lily-coder)
+- Twitter: [@LilianM53742529](https://mobile.twitter.com/LilianM53742529)
+- LinkedIn: [Lilian Moraa](https://www.linkedin.com/in/lilian-moraa-99950b1b8)
 
 👤 **Emmanuel Obonyo**
 
-- GitHub: [@githubhandle](https://github.com/emmyobonyo)
-- Twitter: [@twitterhandle](https://twitter.com/emmyobonyo)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/emmanuel-obonyo-3728a2200/)
-)
+- GitHub: [@emmyobonyo](https://github.com/emmyobonyo)
+- Twitter: [@emmyobonyo](https://twitter.com/emmyobonyo)
+- LinkedIn: [Emmanuel Obonyo](https://www.linkedin.com/in/emmanuel-obonyo-3728a2200/)
+
 
 ## 🤝 Contributing
 
