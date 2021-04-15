@@ -66,7 +66,12 @@
 }
 
 input {
-  width: 70px;
+  width: 100%;
+}
+
+.s17px {
+  font-size: 17px;
+  font-weight: bold;
 }
 
 .navbar-toggler {
@@ -126,8 +131,12 @@ aside {
 }
 
 .red-logo {
-  width: 15%;
+  width: 20%;
   height: 10%;
+}
+
+.red-logo-h5 {
+  font-size: 18px;
 }
 
 .form-class {
@@ -202,7 +211,7 @@ aside {
 
   .more-stories-md {
     margin-left: 33%;
-    margin-top: -2200px;
+    margin-top: -2400px;
   }
 
   .the-opinion-con {
@@ -238,5 +247,35 @@ aside {
   .more-stories-md {
     margin-top: -2350px;
     margin-left: 25%;
+  }
+
+  .sponsored-insight-2 {
+    width: 100%;
+    margin-top: -2050px;
+  }
+
+  .red-logo {
+    width: 100%;
+  }
+
+  .debate-profiles {
+    width: 40%;
+    height: 20%;
+  }
+
+  .the-proponent {
+    padding: 12px 0;
+    border-top: 4px solid lightgray;
+    border-bottom: 1px solid lightgray;
+  }
+
+  .the-opponent {
+    padding: 12px 0;
+    border-bottom: 4px solid lightgray;
+    border-top: 1px solid lightgray;
+  }
+
+  .the-opinion-con {
+    border-bottom: 1px solid black;
   }
 }
