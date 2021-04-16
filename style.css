@@ -253,10 +253,6 @@ aside {
     border-bottom: 4px solid lightgray;
     border-top: 1px solid lightgray;
   }
-
-  .the-opinion-con {
-    border-bottom: 1px solid black;
-  }
 }
 
 @media screen and (min-width: 1024px) {
