@@ -1,3 +1,7 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
 /* Navbar */
 .nav-top {
   background-color: #f72210;
@@ -282,6 +286,15 @@ img {
   width: 100%;
 }
 
+input {
+  width: 100%;
+}
+
+.s17px {
+  font-size: 17px;
+  font-weight: bold;
+}
+
 .navbar-toggler {
   border: none;
 }
@@ -290,7 +303,6 @@ img {
   color: rgba(255, 255, 255, 0.55);
 }
 
-<<<<<<< HEAD
 /* The Debate Section */
 
 .debate-profiles {
@@ -340,8 +352,12 @@ aside {
 }
 
 .red-logo {
-  width: 15%;
+  width: 20%;
   height: 10%;
+}
+
+.red-logo-h5 {
+  font-size: 18px;
 }
 
 .form-class {
@@ -358,9 +374,56 @@ aside {
   padding: 3px 0;
 }
 
+.sponsored-insight-h4 {
+  margin-bottom: -25px;
+}
+
+.text-over-image {
+  position: relative;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 0;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 5px;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.bottom-left-travel {
+  position: absolute;
+  bottom: 0;
+  font-weight: bold;
+  font-size: 14px;
+  padding: 3px;
+  background-color: #c2d4d7;
+}
+
+.a-hover:hover {
+  text-decoration: none;
+}
+
+.input-form {
+  border: 1px solid lightgray;
+}
+
+.a-deco:hover {
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+
+.mc-no-border {
+  border: none;
+}
+
+.ln-border {
+  border-bottom: 1px solid lightgray;
+}
+
 @media screen and (min-width: 768px) {
   .my-turn-h4 {
-    margin-top: -1300px;
+    margin-top: -1450px;
   }
 
   .cards.mt-3.col-md-4 {
@@ -373,7 +436,7 @@ aside {
 
   .more-stories-md {
     margin-left: 33%;
-    margin-top: -2200px;
+    margin-top: -2400px;
   }
 
   .the-opinion-con {
@@ -458,6 +521,23 @@ aside {
   .subscribe {
     padding: 40px 30px;
   }
+
+  .debate-profiles {
+    width: 10%;
+    height: 20%;
+  }
+
+  .the-proponent {
+    padding: 12px 0;
+    border-top: 4px solid lightgray;
+    border-bottom: 1px solid lightgray;
+  }
+
+  .the-opponent {
+    padding: 12px 0;
+    border-bottom: 4px solid lightgray;
+    border-top: 1px solid lightgray;
+  }
 }
 
 @media screen and (min-width: 1024px) {
@@ -475,7 +555,41 @@ aside {
   }
 
   .more-stories-md {
-    margin-top: -2350px;
+    margin-top: -2300px;
     margin-left: 25%;
+  }
+
+  .sponsored-insight-2 {
+    width: 100%;
+    margin-top: -2050px;
+  }
+
+  .red-logo {
+    width: 20%;
+  }
+
+  .red-logo-h5 {
+    font-size: 15px;
+  }
+
+  .debate-profiles {
+    width: 40%;
+    height: 20%;
+  }
+
+  .the-proponent {
+    padding: 12px 0;
+    border-top: 4px solid lightgray;
+    border-bottom: 1px solid lightgray;
+  }
+
+  .the-opponent {
+    padding: 12px 0;
+    border-bottom: 4px solid lightgray;
+    border-top: 1px solid lightgray;
+  }
+
+  .the-opinion-con {
+    border-bottom: 1px solid black;
   }
 }
