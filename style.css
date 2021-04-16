@@ -187,6 +187,10 @@ aside {
   text-decoration: none;
 }
 
+.input-form {
+  border: 1px solid lightgray;
+}
+
 .a-deco:hover {
   text-decoration: underline;
   text-decoration-color: red;
