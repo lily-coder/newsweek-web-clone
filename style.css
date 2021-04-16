@@ -72,7 +72,6 @@
   position: absolute;
   margin-bottom: 20px;
   padding-bottom: 40px;
-  margin-left: 0px;
   background-color: #f8f9fa;
 }
 
@@ -262,8 +261,8 @@
   padding-top: 16px;
 }
 
-.ml-50{
-  margin-left:50px;
+.ml-50 {
+  margin-left: 50px;
 }
 
 .sub-btn {
@@ -280,7 +279,7 @@
 /* =====THE FOOTER SECTION===== */
 
 img {
-  width:100%;
+  width: 100%;
 }
 
 .navbar-toggler {
