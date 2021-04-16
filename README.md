@@ -1,8 +1,11 @@
 # newsweek-web-clone
 
-> One paragraph statement about the project.
+> This is a clone of the newsweek web page.
+> In this milestone, I am working on the last part of the webpage before the footer.
+> This section entails 'In the magazine section'
 
-![screenshot](./app_screenshot.png)
+![screenshot](img/first-part-milestone-three.png)
+![screenshot](img/last-part-milestone-three.png)
 
 Additional description about the project and its features.
 
@@ -13,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://lily-coder.github.io/newsweek-web-clone/)
 
 ## Authors
 
