@@ -1,50 +1,67 @@
-# newsweek-web-clone
+# News Week Web Clone
 
-> One paragraph statement about the project.
+> This is a clone of an archived version of the [News Week Website](https://web.archive.org/web/20210120125445/https://www.newsweek.com/) as of Wed, Jan 20, 2020
 
-![screenshot](./app_screenshot.png)
+## Milestone 2 Screen Shots
+![screenshot](./img/large.png)
+- Large screens
 
-Additional description about the project and its features.
+![screenshot](./img/medium.png)
+- Medium Screens
+
+![screenshot](./img/small.png)
+- Small Screens
+
+- The goal of the project was to learn to use Bootstrap to design Responsive Web Pages.
+- We used Bootstrap grid to position the different elements in columns.
+- PS: The links on the page don't work. They are mainly dummy links.
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+- Clone this repository onto your computer using git clone https://github.com/lily-coder/newsweek-web-clone.git
+
+- Or you can Fork it instead, and create a pull request to suggest some changes.
+
+### Prerequisites
+
+- Just have a computer and some internet I guess.
 
 ## Built With
 
-- Html and Css
+- HTML and CSS
 - Bootstrap
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
 
 ## Authors
 
 👤 **Lilian Moraa**
 
-- GitHub: [@githubhandle](https://github.com/lily-coder)
-- Twitter: [@twitterhandle](https://mobile.twitter.com/LilianM53742529)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lilian-moraa-99950b1b8)
+- GitHub: [@lily-coder](https://github.com/lily-coder)
+- Twitter: [@LilianM53742529](https://mobile.twitter.com/LilianM53742529)
+- LinkedIn: [Lilian Moraa](https://www.linkedin.com/in/lilian-moraa-99950b1b8)
 
 👤 **Emmanuel Obonyo**
 
-- GitHub: [@githubhandle](https://github.com/emmyobonyo)
-- Twitter: [@twitterhandle](https://twitter.com/emmyobonyo)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/emmanuel-obonyo-3728a2200/)
-)
+- GitHub: [@emmyobonyo](https://github.com/emmyobonyo)
+- Twitter: [@emmyobonyo](https://twitter.com/emmyobonyo)
+- LinkedIn: [Emmanuel Obonyo](https://www.linkedin.com/in/emmanuel-obonyo-3728a2200/)
+
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/lily-coder/newsweek-web-clone/issues).
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Give a ⭐️ if you like this project! We'd really appreciate it.
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thanks to [Microverse](https://github.com/lily-coder/newsweek-web-clone/issues) for providing the [linters](https://github.com/microverseinc/linters-config/tree/master/html-css)
+
 
 ## 📝 License
 
