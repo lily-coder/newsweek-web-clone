@@ -1,3 +1,7 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
 /* Navbar */
 .nav-top {
   background-color: #f72210;
@@ -228,6 +232,27 @@ aside {
   .more-content {
     display: flex;
   }
+
+  .debate-profiles {
+    width: 10%;
+    height: 20%;
+  }
+
+  .the-proponent {
+    padding: 12px 0;
+    border-top: 4px solid lightgray;
+    border-bottom: 1px solid lightgray;
+  }
+
+  .the-opponent {
+    padding: 12px 0;
+    border-bottom: 4px solid lightgray;
+    border-top: 1px solid lightgray;
+  }
+
+  .the-opinion-con {
+    border-bottom: 1px solid black;
+  }
 }
 
 @media screen and (min-width: 1024px) {
@@ -245,7 +270,7 @@ aside {
   }
 
   .more-stories-md {
-    margin-top: -2350px;
+    margin-top: -2300px;
     margin-left: 25%;
   }
 
