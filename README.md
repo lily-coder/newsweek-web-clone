@@ -16,6 +16,18 @@
 - We used Bootstrap grid to position the different elements in columns.
 - PS: The links on the page don't work. They are mainly dummy links.
 
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+- Clone this repository onto your computer using git clone https://github.com/lily-coder/newsweek-web-clone.git
+
+- Or you can Fork it instead, and create a pull request to suggest some changes.
+
+### Prerequisites
+
+- Just have a computer and some internet I guess.
+
 ## Built With
 
 - HTML and CSS
