@@ -280,7 +280,11 @@ aside {
   }
 
   .red-logo {
-    width: 100%;
+    width: 20%;
+  }
+
+  .red-logo-h5 {
+    font-size: 15px;
   }
 
   .debate-profiles {
