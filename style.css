@@ -94,8 +94,9 @@ img {
 .bottom-left-1 {
   position: absolute;
   bottom: 50px;
-  left: 10;
+  left: 10px;
 }
+
 .card-img-top {
   height: 40vh;
 }
@@ -434,7 +435,6 @@ aside {
 .ln-border {
   border-bottom: 1px solid lightgray;
 }
-
 
 @media screen and (min-width: 768px) {
   .my-turn-h4 {
