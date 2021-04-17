@@ -3,6 +3,10 @@ body {
 }
 
 /* Navbar */
+img {
+  width: 100%;
+}
+
 .nav-top {
   background-color: #f72210;
   width: 100%;
@@ -252,11 +256,8 @@ body {
   justify-content: flex-start;
 }
 
-.bg-img {
-  background: url(img/starting\ 5.png);
-  height: 100%;
-  width: 100%;
-  z-index: -1;
+.bg-white {
+  background-color: white;
 }
 
 .sub-img {
@@ -287,7 +288,7 @@ body {
 }
 
 .sub-btn {
-  width: 179px;
+  width: 152px;
   border-radius: 3px;
   padding: 10px 10px 10px 12px;
   font: bold 16px/16px "Roboto Condensed", sans-serif;
@@ -298,10 +299,6 @@ body {
 }
 
 /* =====THE FOOTER SECTION===== */
-
-img {
-  width: 100%;
-}
 
 input {
   width: 100%;
@@ -437,6 +434,7 @@ aside {
 .ln-border {
   border-bottom: 1px solid lightgray;
 }
+
 
 @media screen and (min-width: 768px) {
   .my-turn-h4 {
