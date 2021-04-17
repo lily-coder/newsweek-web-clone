@@ -61,7 +61,9 @@ body {
   padding: 10px;
 }
 
+
 /* =====IN THE MAGAZINE SECTION===== */
+
 .in-the-magazine {
   margin: 20px;
 }
@@ -77,6 +79,21 @@ body {
   margin-bottom: 20px;
   padding-bottom: 40px;
   background-color: #f8f9fa;
+}
+
+.y {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.bottom-left-1 {
+  position: absolute;
+  bottom: 50px;
+  left: 10;
+}
+.card-img-top {
+  height: 40vh;
 }
 
 .hover-o:hover {
