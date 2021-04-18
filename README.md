@@ -4,6 +4,7 @@
 
 ## Milestone 2 Screen Shots
 ![screenshot](./img/large.png)
+![screenshot](img/last-part-milestone-three.png)
 - Large screens
 
 ![screenshot](./img/medium.png)
@@ -24,6 +25,7 @@ To get a local copy up and running follow these simple example steps.
 
 - Or you can Fork it instead, and create a pull request to suggest some changes.
 
+[Live Demo Link](https://lily-coder.github.io/newsweek-web-clone/)
 ### Prerequisites
 
 - Just have a computer and some internet I guess.
